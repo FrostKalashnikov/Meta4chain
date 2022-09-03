@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\skeletonexportergltf.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntimeeditor\\definitions.gltfruntimeeditor.h",
+            "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\source\\gltfruntimeeditor\\public\\skeletonexportergltf.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\exporters\\exporter.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\exporter.generated.h",
+            "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\skeletonexportergltf.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

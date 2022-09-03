@@ -1,0 +1,36 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-glTFRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFAnimBoneCompressionCodec.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntime.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAnimationCurve.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAsset.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAssetActor.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAssetActorAsync.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeFunctionLibrary.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeImageLoader.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParser.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParserAudio.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParserCustom.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParserMaterials.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParserSkeletalMeshes.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParserStaticMeshes.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeSoundWave.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFAnimBoneCompressionCodec.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntime.init.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAnimationCurve.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAsset.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAssetActor.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAssetActorAsync.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeFunctionLibrary.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeImageLoader.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeParser.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeSoundWave.gen.cpp.obj"
+"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\Default.rc2.res"
+/OUT:"D:\Users\Downloads\Unreal UE5 RPM Plugin\glTFRuntime\HostProject\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\UnrealEditor-glTFRuntime.lib"

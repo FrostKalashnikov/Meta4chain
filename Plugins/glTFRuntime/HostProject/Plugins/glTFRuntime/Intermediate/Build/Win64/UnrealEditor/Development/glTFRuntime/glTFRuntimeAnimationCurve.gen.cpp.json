@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\gltfruntimeanimationcurve.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
+            "d:\\users\\downloads\\unreal ue5 rpm plugin\\gltfruntime\\hostproject\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\gltfruntimeanimationcurve.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
