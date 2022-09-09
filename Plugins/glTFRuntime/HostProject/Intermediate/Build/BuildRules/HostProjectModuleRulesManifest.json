@@ -1,7 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Users\\Downloads\\Unreal UE5 RPM Plugin\\glTFRuntime\\HostProject\\Plugins\\glTFRuntime\\Source\\glTFRuntime\\glTFRuntime.Build.cs",
-		"D:\\Users\\Downloads\\Unreal UE5 RPM Plugin\\glTFRuntime\\HostProject\\Plugins\\glTFRuntime\\Source\\glTFRuntimeEditor\\glTFRuntimeEditor.Build.cs"
-	],
-	"EngineVersion": "5.0.2"
-}
