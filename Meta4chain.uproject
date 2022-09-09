@@ -25,6 +25,10 @@
 		{
 			"Name": "ReadyPlayerMe",
 			"Enabled": false
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
 		}
 	]
 }
