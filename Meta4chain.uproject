@@ -24,6 +24,10 @@
 		{
 			"Name": "PanoramicCapture",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
