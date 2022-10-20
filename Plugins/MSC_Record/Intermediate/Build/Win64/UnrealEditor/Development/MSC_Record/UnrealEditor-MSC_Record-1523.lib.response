@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MSC_Record-1523.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\MSC_ExampleProject\Intermediate\Build\Win64\MSC_ExampleProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Module.MSC_Record.cpp.obj"
+"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Module.MSC_Record.gen.cpp.obj"
+"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Default.rc2.res"
+/OUT:"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\UnrealEditor-MSC_Record-1523.lib"
