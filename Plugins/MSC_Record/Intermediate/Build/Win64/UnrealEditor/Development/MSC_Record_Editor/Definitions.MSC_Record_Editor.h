@@ -55,8 +55,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME MSC_ExampleProject
-#define UE_TARGET_NAME MSC_ExampleProjectEditor
+#define UE_PROJECT_NAME Meta4chain
+#define UE_TARGET_NAME UnrealEditor
 #define UE_MODULE_NAME "MSC_Record_Editor"
 #define UE_PLUGIN_NAME "MSC_Record"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

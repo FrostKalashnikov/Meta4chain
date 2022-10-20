@@ -13,22 +13,22 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MSC_RECORD_BaseRecord_generated_h
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_14_DELEGATE \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_14_DELEGATE \
 static inline void FOnExportFinished_DelegateWrapper(const FMulticastScriptDelegate& OnExportFinished) \
 { \
 	OnExportFinished.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_19_GENERATED_BODY \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_19_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRecordingSettings_Statics; \
 	MSC_RECORD_API static class UScriptStruct* StaticStruct();
 
 
 template<> MSC_RECORD_API UScriptStruct* StaticStruct<struct FRecordingSettings>();
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_SPARSE_DATA
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_SPARSE_DATA
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetTimeByFrameRate); \
 	DECLARE_FUNCTION(execGetFormattedFileName); \
@@ -41,7 +41,7 @@ template<> MSC_RECORD_API UScriptStruct* StaticStruct<struct FRecordingSettings>
 	DECLARE_FUNCTION(execStartCapture);
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetTimeByFrameRate); \
 	DECLARE_FUNCTION(execGetFormattedFileName); \
@@ -54,9 +54,9 @@ template<> MSC_RECORD_API UScriptStruct* StaticStruct<struct FRecordingSettings>
 	DECLARE_FUNCTION(execStartCapture);
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_EVENT_PARMS
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_CALLBACK_WRAPPERS
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS_NO_PURE_DECLS \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_EVENT_PARMS
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_CALLBACK_WRAPPERS
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseRecord(); \
 	friend struct Z_Construct_UClass_ABaseRecord_Statics; \
@@ -65,7 +65,7 @@ public: \
 	DECLARE_SERIALIZER(ABaseRecord)
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS \
 private: \
 	static void StaticRegisterNativesABaseRecord(); \
 	friend struct Z_Construct_UClass_ABaseRecord_Statics; \
@@ -74,7 +74,7 @@ public: \
 	DECLARE_SERIALIZER(ABaseRecord)
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_STANDARD_CONSTRUCTORS \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ABaseRecord(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABaseRecord) \
@@ -87,7 +87,7 @@ private: \
 public:
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_ENHANCED_CONSTRUCTORS \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABaseRecord(ABaseRecord&&); \
@@ -98,30 +98,30 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ABaseRecord)
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_57_PROLOG \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_EVENT_PARMS
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_57_PROLOG \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_EVENT_PARMS
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_GENERATED_BODY_LEGACY \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_SPARSE_DATA \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_CALLBACK_WRAPPERS \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_STANDARD_CONSTRUCTORS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_SPARSE_DATA \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_CALLBACK_WRAPPERS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_GENERATED_BODY \
+#define FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_SPARSE_DATA \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_CALLBACK_WRAPPERS \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS_NO_PURE_DECLS \
-	FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_ENHANCED_CONSTRUCTORS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_SPARSE_DATA \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_CALLBACK_WRAPPERS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_INCLASS_NO_PURE_DECLS \
+	FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h_60_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -129,7 +129,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MSC_RECORD_API UClass* StaticClass<class ABaseRecord>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h
+#define CURRENT_FILE_ID FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_BaseRecord_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

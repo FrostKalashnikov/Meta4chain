@@ -139,16 +139,16 @@ void EmptyLinkFunctionForGeneratedCodeMSC_Library() {}
 		}
 		return Z_Registration_Info_UEnum_ECompressSpeed.InnerSingleton;
 	}
-	struct Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics
+	struct Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics::EnumInfo[] = {
 		{ EExportFormats_StaticEnum, TEXT("EExportFormats"), &Z_Registration_Info_UEnum_EExportFormats, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1871779915U) },
 		{ ECompressSpeed_StaticEnum, TEXT("ECompressSpeed"), &Z_Registration_Info_UEnum_ECompressSpeed, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 931500507U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_3818653128(TEXT("/Script/MSC_Record"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_3818653128(TEXT("/Script/MSC_Record"),
 		nullptr, 0,
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics::EnumInfo));
+		Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

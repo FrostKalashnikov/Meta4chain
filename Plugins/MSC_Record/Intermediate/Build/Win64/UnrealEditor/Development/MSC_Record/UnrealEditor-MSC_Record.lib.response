@@ -6,8 +6,8 @@
 /NAME:"UnrealEditor-MSC_Record.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal Projects\MSC_ExampleProject\Intermediate\Build\Win64\MSC_ExampleProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Module.MSC_Record.cpp.obj"
-"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Module.MSC_Record.gen.cpp.obj"
-"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Default.rc2.res"
-/OUT:"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\UnrealEditor-MSC_Record.lib"
+"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Module.MSC_Record.cpp.obj"
+"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Module.MSC_Record.gen.cpp.obj"
+"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\Default.rc2.res"
+/OUT:"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record\UnrealEditor-MSC_Record.lib"

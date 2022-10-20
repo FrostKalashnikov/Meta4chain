@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define MSC_RECORD_MSC_Library_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h
+#define CURRENT_FILE_ID FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_MSC_Library_h
 
 
 #define FOREACH_ENUM_EEXPORTFORMATS(op) \

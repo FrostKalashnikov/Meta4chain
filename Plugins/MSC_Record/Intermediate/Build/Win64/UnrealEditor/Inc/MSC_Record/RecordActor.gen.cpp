@@ -352,15 +352,15 @@ void EmptyLinkFunctionForGeneratedCodeRecordActor() {}
 		return ARecordActor::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ARecordActor);
-	struct Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics
+	struct Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_ARecordActor, ARecordActor::StaticClass, TEXT("ARecordActor"), &Z_Registration_Info_UClass_ARecordActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ARecordActor), 2067158453U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_2209287943(TEXT("/Script/MSC_Record"),
-		Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_MSC_ExampleProject_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_2209287943(TEXT("/Script/MSC_Record"),
+		Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Meta4chain_Plugins_MSC_Record_Source_MSC_Record_Public_RecordActor_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

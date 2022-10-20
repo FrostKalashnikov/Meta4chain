@@ -1,6 +1,6 @@
-"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp"
+C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp
 /I .
-/I "D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Source\MSC_Record_Editor\Private"
+/I C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Source\MSC_Record_Editor\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -253,15 +253,15 @@
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
 /I Runtime\AVIWriter\Public
-/I "D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Source"
-/I "D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Source\MSC_Record_Editor\Public"
+/I C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Source
+/I C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Source\MSC_Record_Editor\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MovieSceneCapture
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\LevelSequence
 /I Runtime\LevelSequence\Public
 /I Editor\MainFrame\Public
-/I "D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Inc\MSC_Record"
-/I "D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Source\MSC_Record\Public"
+/I C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Inc\MSC_Record
+/I C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Source\MSC_Record\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -282,12 +282,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Unreal Projects\MSC_ExampleProject\Intermediate\Build\Win64\MSC_ExampleProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/FI"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Definitions.MSC_Record_Editor.h"
-/Yu"D:\Unreal Projects\MSC_ExampleProject\Intermediate\Build\Win64\MSC_ExampleProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"D:\Unreal Projects\MSC_ExampleProject\Intermediate\Build\Win64\MSC_ExampleProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp.obj"
-/sourceDependencies "D:\Unreal Projects\MSC_ExampleProject\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp.json"
+/FI"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/FI"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Definitions.MSC_Record_Editor.h"
+/Yu"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp.obj"
+/sourceDependencies C:\Users\Michel\Downloads\wetransfer_meta4chain-part1-rar_2022-08-15_1528\Meta4chain\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp.json
 /Zc:inline
 /nologo
 /Oi
