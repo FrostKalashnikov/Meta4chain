@@ -72,3 +72,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Meta4ChainVR_Template/Saved/*
+Meta4ChainVR_Template/Intermediate/*
+Meta4ChainVR_Template/DerivedDataCache/*
+Meta4ChainVR_Template/Binaries/*
+Meta4ChainVR_Template/Build/*
